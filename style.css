@@ -1,0 +1,207 @@
+.heading{
+    background-color: pink;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.heading2{
+    background-color: white;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.heading3{
+    background-color: black;
+    height: 100px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.red{
+    background-color: red;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.head{
+    background-color: grey;
+    clear: both;
+}
+
+.menu-item{
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+
+.menu {
+    text-align: center;
+    background-color: grey;
+    padding-bottom: 15px;
+}
+
+.clear {
+    clear: both;
+}
+
+.white {
+    background-color: white;
+}
+
+.green{
+    background-color: green;
+}
+
+.violet{
+    background-color: violet;
+}
+
+.black{
+    background-color: black;
+}
+
+.left-block{
+ width: 33.33%;
+ height: 500px;
+ position: relative;
+ float: left;
+}
+
+.centre-block{
+    width: 33.33%;
+    height: 500px;
+    position: relative;
+    float: left;
+}
+
+.right-block{
+    width: 33.33%;
+    height: 500px;
+    position: relative;
+    float: left;
+}
+
+.sub-left{
+    width: 60%;
+    height: 400px;
+    top: 50px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.a-left{
+    width: 50%;
+    height: 350px;
+    top:50px;
+    position: relative;
+    float: left;
+}
+
+.b-left{
+    width: 50%;
+    height: 350px;
+    top:50px;
+    position: relative;
+    float: left;
+}
+
+.centre-red{
+    width: 33.33%;
+    height: 450px;
+    position: relative;
+    float: left;
+    top:50px;
+}
+
+.centre-yellow{
+    width: 33.33%;
+    height: 450px;
+    position: relative;
+    float: left;
+    top:50px;
+}
+
+.centre-orange{
+    width: 33.33%;
+    height: 450px;
+    position: relative;
+    float: left;
+    top:50px;
+}
+
+.a-centre{
+    width: 50%;
+    height: 400px;
+    position: relative;
+    float: left;
+    top:50px;
+}
+
+.b-centre{
+    width: 50%;
+    height: 200px;
+    position: relative;
+    float: left;
+    top:250px;
+}
+
+.right-blue{
+    width: 33.33%;
+    height: 200px;
+    position: relative;
+    float: left;
+    top:250px;
+}
+
+.right-yellow{
+    width: 33.33%;
+    height: 200px;
+    position: relative;
+    float: left;
+    top:175px;
+}
+
+.right-orange{
+    width: 33.33%;
+    height: 200px;
+    position: relative;
+    float: left;
+    top:100px;
+}
+
+.right-text{
+    width: 60%;
+    height: 30px;
+    position: relative;
+    float: left;
+    top: 125px;
+    color: white;
+    text-align: center;
+}
+
+.left-text{
+    width: 60%;
+    height: 30px;
+    position: relative;
+    float: right;
+    top: 10px;
+    color: white;
+    text-align: center;
+}
