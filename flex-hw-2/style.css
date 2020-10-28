@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@800&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.header-top{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-left: 270px;
+padding-right: 270px;
+padding-top: 10px;
+padding-bottom: 8px;
+}
+
+.header-bottom{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+
+.nav-item a{
+    color: #000;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 800;
+    text-align: center;
+    text-transform: uppercase;
+    display: flex;
+}
+
+.header-menu{
+    background-color: #960018;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-item-b a{
+    color: #000;
+    text-decoration: none;
+    font-size: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 800;
+    display: flex;
+}
+
+.nav-icon{
+    color: white;
+    font-weight: 900;
+    font-size: 25px;
+
+}
+
+.nav-icon-text{
+    color: white;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-left: 10px;
+}
+
+.ukr-pravda-top{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.ukr-pravda-bottom{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.language{
+    color: white;
+    text-transform: uppercase;
+    display:flex;
+}
+
+.header_button {
+    display: flex;
+    align-items: center;
+}
+
+.language_button{
+ display: flex;
+ align-items: center;
+}
+
+.button{
+    color: white;
+    border: 2px solid white;
+    background-color: red;
+    border-radius: 43%;
+    margin: 10px;
+    padding: 5px;
+    text-transform: uppercase;
+}
+
+.covid-menu{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+    color: #960018;
+    margin-top:15px;
+}
+
+.confirmed{
+    border: 1px solid grey;
+    text-transform: uppercase;
+}
+
+.active{
+    border: 1px solid grey;
+    text-transform: uppercase;
+}
+
+.cured{
+    border: 1px solid grey;
+    text-transform: uppercase;
+}
+
+.died{
+    border: 1px solid grey;
+    text-transform: uppercase;
+}
+
+.covid-item{
+    display: flex;
+}
+
+.plus{
+    color:  #960018;
+    display: flex;
+    align-items: end;
+}
+
+.amount{
+    font-size: 30px;
+   display: flex;
+   align-items: end;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.wine{
+    color: #960018;
+    text-transform: uppercase;
+}
+
+.font{
+    font-weight: lighter;
+}
